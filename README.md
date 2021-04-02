@@ -11,15 +11,15 @@ Download Open code and install it in Chrome.
 After installation, log in to the Twitch channel. The extension will picking the channel points itself
 
 ### Repository content
-- Open code-a folder with the full contents of the project source code
+- Open code - a folder with the full contents of the project source code
     - popup.html -interface for displaying the number of channel points picking during a viewing session
-    - manifest.json file with navigation description for Chrome
-    - assets-folder with additional files
+    - manifest.json - file with navigation description for Chrome
+    - assets-folder - with additional files
         - css - folder with css styles for the popup interface
             - style.css - a file with css styles for the popup interface
         - image - folder with icon images to expand
-            - treasure16/32/64/128.png files with 16/32/64/128 height and width icon images for expansion
-        - js-folder with the js code for the extension to work
+            - treasure16/32/64/128.png - files with 16/32/64/128 height and width icon images for expansion
+        - js - folder with the js code for the extension to work
             - clickToChest.js - file with the js-code for auto-picking Twitch channel points
             - popup.js - file with the js-code for displaying the count of channel points picking during the viewing session
 
