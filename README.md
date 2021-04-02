@@ -12,9 +12,9 @@ After installation, log in to the Twitch channel. The extension will picking the
 
 ### Repository content
 - Open code - a folder with the full contents of the project source code
-    - popup.html -interface for displaying the number of channel points picking during a viewing session
+    - popup.html - interface for displaying the number of channel points picking during a viewing session
     - manifest.json - file with navigation description for Chrome
-    - assets-folder - with additional files
+    - assets - folder - with additional files
         - css - folder with css styles for the popup interface
             - style.css - a file with css styles for the popup interface
         - image - folder with icon images to expand
