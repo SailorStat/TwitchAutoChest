@@ -8,7 +8,7 @@ or
 Download Open code and install it in Chrome.
 
 ### Usage
-After installation, log in to the Twitch channel. The extension will picking the channel points itself
+After installation, log in to the Twitch channel. The extension will picking the channel points itself.
 
 ### Repository content
 - Open code - a folder with the full contents of the project source code
