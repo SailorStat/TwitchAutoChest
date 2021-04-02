@@ -1,0 +1,36 @@
+{
+  "manifest_version": 2,
+  "name": "Twitch Auto Chest",
+  "description": "Автосбор Баллов канала на Twitch",
+  "version": "1.0",
+  
+  "icons": {
+    "128": "/assets/image/treasure128.png",
+    "64": "/assets/image/treasure64.png",
+    "32": "/assets/image/treasure32.png",
+    "16": "/assets/image/treasure16.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": [ "https://www.twitch.tv/*" ],
+      "js": [ "/assets/js/clickToChest.js" ],
+      "run_at": "document_end"
+    }
+  ],
+
+  "background": {
+    "scripts": ["/assets/js/popup.js"]
+  },
+
+  "permissions": [
+    "https://www.twitch.tv/*",
+    "storage"
+  ],
+
+  "browser_action": {
+    "default_title": "Twitch Auto Chest",
+    "default_icon": "/assets/image/treasure128.png",
+    "default_popup": "popup.html"
+  }
+}
