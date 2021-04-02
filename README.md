@@ -2,7 +2,9 @@
 ## _Chrome extension for auto-picking channel points on Twitch_
 ### Installing the extension
 To use it, just download the TwitchAutoChest.crx file and install it in Chrome.
+
 or
+
 Download Open code and install it in Chrome.
 
 ### Usage
@@ -23,6 +25,8 @@ After installation, log in to the Twitch channel. The extension will picking the
 
 ### Other
 Subscribe to my [Github](https://github.com/SailorStat)
+
 Subscribe to my [Twitch](https://www.twitch.tv/bootcamp_ru)
+
 [Donate me](https://donatepay.ru/don/BootCamp_RU)# TwitchAutoChest
 
