@@ -28,5 +28,7 @@ Subscribe to my [Github](https://github.com/SailorStat)
 
 Subscribe to my [Twitch](https://www.twitch.tv/bootcamp_ru)
 
-[Donate me](https://donatepay.ru/don/BootCamp_RU)# TwitchAutoChest
+[Donate me](https://donatepay.ru/don/BootCamp_RU)
+
+#TwitchAutoChest
 
